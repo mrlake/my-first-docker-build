@@ -1,0 +1,330 @@
+{
+	"packages": [
+	{
+		"name": "industrialshields",
+			"mantainer": "Boot&Work Corp. S.L.",
+			"websiteURL": "http://www.industrialshields.com/",
+			"email": "industrialshields@industrialshields.com",
+
+			"platforms": [
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.0.0",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.0.0.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.0.0.tar.bz2",
+				"checksum": "SHA-256:78639d93534984472380b5bb795c2a4d3729172035e8a7c1d464eab90a338392",
+				"size": "131398",
+				"boards": [
+				{ "name": "ARDBOX Analog" },
+				{ "name": "ARDBOX Relay" },
+				{ "name": "M-Duino 21" },
+				{ "name": "M-Duino 42" },
+				{ "name": "M-Duino 58" },
+				{ "name": "M-Duino 19R" },
+				{ "name": "M-Duino 38R" },
+				{ "name": "M-Duino 51R" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.0.1",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.0.1.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.0.1.tar.bz2",
+				"checksum": "SHA-256:aef24e04eaa23f4f72217b910b2ef84a20f54222d66b6b7ff9d53dc679029664",
+				"size": "123287",
+				"boards": [
+				{ "name": "ARDBOX Analog" },
+				{ "name": "ARDBOX Relay" },
+				{ "name": "M-Duino 21" },
+				{ "name": "M-Duino 42" },
+				{ "name": "M-Duino 58" },
+				{ "name": "M-Duino 19R" },
+				{ "name": "M-Duino 38R" },
+				{ "name": "M-Duino 51R" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.0.2",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.0.2.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.0.2.tar.bz2",
+				"checksum": "SHA-256:a8cd9885791aa9dc83c6dd4d38c68c8c2a9302fdb89acd169128681d00cb635f",
+				"size": "123221",
+				"boards": [
+				{ "name": "ARDBOX Analog" },
+				{ "name": "ARDBOX Relay" },
+				{ "name": "M-Duino 21" },
+				{ "name": "M-Duino 42" },
+				{ "name": "M-Duino 58" },
+				{ "name": "M-Duino 19R" },
+				{ "name": "M-Duino 38R" },
+				{ "name": "M-Duino 51R" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.0.3-rc1",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.0.3-rc1.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.0.3-rc1.tar.bz2",
+				"checksum": "SHA-256:d1f0083b9441bb62a9130dd020ca9f834c3b53ef00c0b52bd79cb03f61ef974e",
+				"size": "122789",
+				"boards": [
+				{ "name": "ARDBOX Analog" },
+				{ "name": "ARDBOX Relay" },
+				{ "name": "M-Duino 21" },
+				{ "name": "M-Duino 42" },
+				{ "name": "M-Duino 58" },
+				{ "name": "M-Duino 19R" },
+				{ "name": "M-Duino 38R" },
+				{ "name": "M-Duino 51R" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.1.1",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.1.1.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.1.1.tar.bz2",
+				"checksum": "SHA-256:1f5ab21d87dbe77fdc2519a7d71081159f4ac2e5d2cf476a239eb790740a8afe",
+				"size": "150026",
+				"boards": [
+				{ "name": "ARDBOX family" },
+				{ "name": "M-Duino family" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.1.3",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.1.3.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.1.3.tar.bz2",
+				"checksum": "SHA-256:f40897ff0a66eb1ed94646b15c54e7cf97e322f0cf262bbebac936f8a799ac71",
+				"size": "149958",
+				"boards": [
+				{ "name": "ARDBOX family" },
+				{ "name": "M-Duino family" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.1.4",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.1.4.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.1.4.tar.bz2",
+				"checksum": "SHA-256:07b0cd20e117977d3c022ab9067f15c6b62411727e44d48d405cfed6a9273d64",
+				"size": "151374",
+				"boards": [
+				{ "name": "ARDBOX family" },
+				{ "name": "M-Duino family" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.1.5",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.1.5.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.1.5.tar.bz2",
+				"checksum": "SHA-256:8b92d82b698d042fc48a21506dc6f47fdb2121c6cb6c8c1c7d7e85f50dad49b2",
+				"size": "152563",
+				"boards": [
+				{ "name": "ARDBOX family" },
+				{ "name": "M-Duino family" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.1.6",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.1.6.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.1.6.tar.bz2",
+				"checksum": "SHA-256:504efbc1042b40cd0e77f1da9c2f9b70d5f774d3c596d3b11370eb9fccdba9a0",
+				"size": "150965",
+				"boards": [
+				{ "name": "ARDBOX family" },
+				{ "name": "M-Duino family" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			},
+			{
+				"name": "industrialshields",
+				"architecture": "avr",
+				"version": "1.1.7",
+				"category": "Contributed",
+				"help": {
+					"online": "http://www.industrialshields.com/"
+				},
+				"url": "http://apps.industrialshields.com/main/arduino/boards/industrialshields-boards-avr-1.1.7.tar.bz2",
+				"archiveFileName": "industrialshields-boards-avr-1.1.7.tar.bz2",
+				"checksum": "SHA-256:98fccb0d47e2249fb0bac4c9fa534f4c78a77e7accfc6edb844f769a3953a227",
+				"size": "150945",
+				"boards": [
+				{ "name": "ARDBOX family" },
+				{ "name": "M-Duino family" }
+				],
+					"toolsDependencies": [
+					{
+						"packager": "arduino",
+						"name": "avr-gcc",
+						"version": "4.9.2-atmel3.5.3-arduino2"
+					},
+					{
+						"packager": "arduino",
+						"name": "avrdude",
+						"version": "6.3.0-arduino8"
+					}
+					]
+			}
+		],
+			"tools": [
+
+			]
+	}
+	]
+}
